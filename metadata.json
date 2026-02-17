@@ -1,0 +1,7 @@
+{
+  "name": "2026 Neon New Year - AR Hand Interactive",
+  "description": "A high-performance WebGL New Year experience featuring hand-gesture controlled fireworks and fortune drawing using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
